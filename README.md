@@ -6,41 +6,7 @@
 
 I architect and ship complex product-led web applications from zero to production: micro-frontends, design systems, GraphQL/Relay data layers, automated testing and technical squad leadership.
 
-[![GitHub](https://img.shields.io/badge/GitHub-quentin--rat-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/quentin-rat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quentin_Rat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](ttps://fr.linkedin.com/in/quentin-rat-737b25152)
-[![Email](https://img.shields.io/badge/Email-quentinrat%40fulll.fr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:quentin.rat@fulll.fr)
-[![Company](https://img.shields.io/badge/Tech_Lead-fulll.fr-2563EB?style=flat-square)](https://www.fulll.fr/)
-
 </div>
-
-## 🚧 What I am building & leading now
-
-### 📊 [fulll](https://www.fulll.fr/): Accounting SaaS Suite (Compta Range)
-
-Tech Lead Frontend & Squad Lead across three core B2B SaaS products built for accounting firms (**In Extenso**, **fulll**): **Révision** (financial audit & control across VAT, cash flow, sales, fixed assets, equity and anomaly alerts), **ECF** and **Accueil-Compta**.
-
-- 🧭 **Domain workflows shipped end-to-end:** Built critical accounting features across all three products, connecting PostgreSQL/Knex.js and Node.js/GraphQL backends to high-density React interfaces.
-- ⚛️ **Legacy-to-modern transformation:** Drove the progressive migration from **Vue.js to React**, split monolithic surfaces into **Micro-Frontends**, and standardized data fetching and caching with **Relay**.
-- 🎨 **Design System & financial analytics:** Delivered shared UI primitives in **Storybook** from Figma specs and built interactive accounting dashboards with **Nivo**.
-- 🛠️ **CI speed & production reliability:** Cut test execution times by migrating from **Jest to Vitest**, enforced React Testing Library & Cucumber coverage, and instrumented real-time error tracking with **Sentry**.
-- 👥 **Squad delivery & enablement:** Co-piloted roadmaps and sprint execution with PM/POs (Linear, Notion), mentored squad engineers through 1:1s, and led cross-chapter front-end training.
-
-**Scope & Impact** (2021 – Present):
-
-| Area | Details |
-|---|---|
-| Core SaaS products led | 3 (**Révision**, **ECF**, **Accueil-Compta**) |
-| Target ecosystem | Accounting firms & CPA practices (In Extenso, fulll) |
-| Key technical migrations | Vue.js → React · Jest → Vitest · Monolith → Micro-Frontends |
-| Role allocation | 40% Product & Full-Stack Dev · 40% Architecture · 20% Squad Lead |
-
-## 🧩 Engineering & leadership strengths
-
-- 🏗️ **Large-scale migrations & architecture:** Transforming legacy front-ends into modular React and Micro-Frontend architectures without halting product delivery.
-- 📊 **Data-intensive B2B interfaces:** Designing fast, accessible (`a11y`, Web Vitals) financial grids, reporting tools, and interactive visualizations built for daily power users.
-- 🎨 **Design System governance:** Bridging Figma and production code with reusable, documented component libraries that keep multi-product suites consistent.
-- ⚡ **Developer experience & software quality:** Accelerating feedback loops through modern build/test tooling, automated regression suites, and front-end security hardening (XSS/CSRF).
-- 🤝 **Technical leadership & mentoring:** Aligning engineering execution with product discovery, unblocking squads, and leveling up teams through code reviews and internal workshops.
 
 ## 🎨 Stack
 
