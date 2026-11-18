@@ -19,11 +19,11 @@ I architect and ship complex product-led web applications from zero to productio
 
 Tech Lead Frontend & Squad Lead across three core B2B SaaS products built for accounting firms (**In Extenso**, **fulll**): **Révision** (financial audit & control across VAT, cash flow, sales, fixed assets, equity and anomaly alerts), **ECF** and **Accueil-Compta**.
 
-- 🧭 **End-to-end product engineering:** Designing and shipping complex domain workflows across all three products, from GraphQL/Node.js endpoints and PostgreSQL/Knex.js queries to interactive Nivo dashboards.
-- ⚛️ **Strategic architecture & migrations:** Led the full-scale migration from **Vue.js to React**, structured **Micro-Frontend** boundaries, and introduced **Relay** to optimize GraphQL data fetching and client-side caching.
-- 🎨 **Design System & UX quality:** Building shared components in **Storybook** aligned with Figma specs and the fulll Design System, while continuously improving Web Vitals and accessibility (`a11y`).
-- 🛠️ **Production-grade quality & observability:** Migrated the test suite from **Jest to Vitest** to speed up CI builds, enforced React Testing Library & Cucumber coverage, hardened front-end security (XSS/CSRF), and monitored production stability via **Sentry**.
-- 👥 **Squad leadership & enablement:** Co-leading sprint planning, delivery and agile rituals with PM/POs (Linear, Notion), mentoring developers through 1:1s and code reviews, and running internal front-end training sessions.
+- 🧭 **Domain workflows shipped end-to-end:** Built critical accounting features across all three products, connecting PostgreSQL/Knex.js and Node.js/GraphQL backends to high-density React interfaces.
+- ⚛️ **Legacy-to-modern transformation:** Drove the progressive migration from **Vue.js to React**, split monolithic surfaces into **Micro-Frontends**, and standardized data fetching and caching with **Relay**.
+- 🎨 **Design System & financial analytics:** Delivered shared UI primitives in **Storybook** from Figma specs and built interactive accounting dashboards with **Nivo**.
+- 🛠️ **CI speed & production reliability:** Cut test execution times by migrating from **Jest to Vitest**, enforced React Testing Library & Cucumber coverage, and instrumented real-time error tracking with **Sentry**.
+- 👥 **Squad delivery & enablement:** Co-piloted roadmaps and sprint execution with PM/POs (Linear, Notion), mentored squad engineers through 1:1s, and led cross-chapter front-end training.
 
 **Scope & Impact** (2021 – Present):
 
@@ -33,6 +33,14 @@ Tech Lead Frontend & Squad Lead across three core B2B SaaS products built for ac
 | Target ecosystem | Accounting firms & CPA practices (In Extenso, fulll) |
 | Key technical migrations | Vue.js → React · Jest → Vitest · Monolith → Micro-Frontends |
 | Role allocation | 40% Product & Full-Stack Dev · 40% Architecture · 20% Squad Lead |
+
+## 🧩 Engineering & leadership strengths
+
+- 🏗️ **Large-scale migrations & architecture:** Transforming legacy front-ends into modular React and Micro-Frontend architectures without halting product delivery.
+- 📊 **Data-intensive B2B interfaces:** Designing fast, accessible (`a11y`, Web Vitals) financial grids, reporting tools, and interactive visualizations built for daily power users.
+- 🎨 **Design System governance:** Bridging Figma and production code with reusable, documented component libraries that keep multi-product suites consistent.
+- ⚡ **Developer experience & software quality:** Accelerating feedback loops through modern build/test tooling, automated regression suites, and front-end security hardening (XSS/CSRF).
+- 🤝 **Technical leadership & mentoring:** Aligning engineering execution with product discovery, unblocking squads, and leveling up teams through code reviews and internal workshops.
 
 ## 🎨 Stack
 
@@ -56,18 +64,3 @@ Tech Lead Frontend & Squad Lead across three core B2B SaaS products built for ac
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🧩 Engineering & leadership strengths
-
-- 🏗️ **Frontend Architecture & Migrations:** Large-scale framework transitions (Vue.js to React), Micro-Frontend integration, Relay/GraphQL state & cache management, and long-term technical debt reduction.
-- 🎨 **Design Systems & Data Visualization:** Transverse component libraries in Storybook, Figma-to-code alignment, interactive financial dashboards (Nivo, Chart.js), accessibility (`a11y`) and Web Vitals optimization.
-- 💻 **Full-Stack & Data Delivery:** Node.js/Express & GraphQL APIs, PostgreSQL and Oracle schema modeling, SQL query optimization (Knex.js), and Python/ETL data pipelines.
-- 🧪 **Software Quality & Observability:** Automated testing strategies (Vitest, React Testing Library, Cypress, Playwright, Cucumber), strict code review standards, front-end security (XSS/CSRF) and Sentry production monitoring.
-- 👥 **Technical Leadership & Squad Enablement:** Agile delivery with PM/POs (Linear, Notion), developer mentoring, technical unblocking and internal training workshops across front-end chapters.
-
-## 🔗 Links & Contact
-
-- 🏢 Current role: [fulll.fr](https://www.fulll.fr/)
-- 🐙 GitHub: [github.com/quentin-rat](https://github.com/quentin-rat)
-- 💼 LinkedIn: [linkedin.com/in/quentin-rat](https://fr.linkedin.com/in/quentin-rat-737b25152)
-
-📍 Based in Bordeaux, France.
