@@ -4,11 +4,10 @@
 
 ### Tech Lead Frontend · React & TypeScript · Lead Squad 🚀
 
-I architect and ship complex product-led web applications from zero to production: micro-frontends, design systems, GraphQL/Relay data layers, automated testing and technical squad leadership.
-
+Software enthusiast focused on application architecture and building complex web products.
 </div>
 
-## 🎨 Stack
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
